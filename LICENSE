@@ -1,0 +1,85 @@
+Diamond Data Chain Specification License
+Version 1.0
+August 2026
+
+Copyright © 2026 Diamond Data Chain.
+All rights reserved.
+
+1. Purpose
+
+This license governs the use, distribution and implementation of the
+official Diamond Data Chain (DDC) technical specifications.
+
+2. Permission to Use
+
+Any individual or organization may:
+
+- read this specification;
+- download and store copies;
+- reference or cite this specification;
+- implement the technical requirements described in this specification
+  within software, products or services.
+
+3. Attribution
+
+Any public implementation or publication based on this specification
+shall acknowledge Diamond Data Chain as the original specification
+publisher.
+
+4. Modifications
+
+Modified versions of this specification may be created for internal or
+educational purposes.
+
+Modified versions shall not be presented as official Diamond Data Chain
+specifications.
+
+Any modified version shall clearly indicate that it is not an official
+DDC publication.
+
+5. Trademarks
+
+The following names and identifiers remain the exclusive property of
+Diamond Data Chain:
+
+- Diamond Data Chain
+- DDC
+- DDC Token Record Standard
+- DDC Business Value Assessment Methodology
+- DDC Certified
+- Diamond Data Chain logos and visual identity
+
+Use of these names, trademarks or logos requires prior written
+authorization from Diamond Data Chain.
+
+6. Certification
+
+Implementation of this specification does not grant the right to claim:
+
+- official compliance;
+- official certification;
+- official endorsement;
+- partnership with Diamond Data Chain.
+
+Such claims require explicit written authorization.
+
+7. Warranty
+
+This specification is provided "AS IS", without warranties or
+conditions of any kind, either express or implied.
+
+Diamond Data Chain shall not be liable for any damages resulting from
+the use or implementation of this specification.
+
+8. Official Versions
+
+Only specifications published by Diamond Data Chain through its
+official repositories or official communication channels shall be
+considered official versions.
+
+9. Governing Law
+
+This license shall be interpreted in accordance with the applicable
+laws governing the Diamond Data Chain project.
+
+End of License.
