@@ -11,7 +11,8 @@ Diamond Data Chain (DDC) is an AI-assisted, advisory-only Layer-1 blockchain des
 | Specification | Version | Status |
 |---------------|---------|--------|
 | DDC Token Record Standard | v1.0 | Official |
-| Business Value Assessment Methodology | v1.0 | Official |
+| Operational Value Assessment Methodology | v2.0 | Official / Current |
+| Business Value Assessment Methodology | v1.0 | Legacy |
 
 ---
 
@@ -19,6 +20,7 @@ Diamond Data Chain (DDC) is an AI-assisted, advisory-only Layer-1 blockchain des
 
     standards/
     ├── DDC-Token-Record-Standard-v1.0.md
+    ├── Operational-Value-Assessment-Methodology-v2.0.md
     └── Business-Value-Assessment-Methodology-v1.0.md
 
     diagrams/
